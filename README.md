@@ -2,9 +2,11 @@
 A simple python script to download subtitle. Just run the script on a folder, and it will download all the srt files for you.
 Unfortunately, thesubdb.com's collection is not that great. I'll try to add more source in the next iteration!
 
-PS: currently support mkv, avi, and mp4
+PS:
+- currently support mkv, avi, and mp4
+- Windows support coming soon.
 
-## How to run:
+## How to run (Linux):
 - just link it to your bin folder (http://stackoverflow.com/questions/6967331/how-do-i-install-a-script-to-run-anywhere-from-the-command-line)
 - open the folder with video file
 - run it!
